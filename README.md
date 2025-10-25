@@ -56,7 +56,7 @@ tsarthak878@gmail.com
 
 ---
 
-## 🌐 Portfolio
+## Portfolio
 Check out my website for more projects and information: 
 [Portfolio Website](https://sarthak-cs.github.io/)
 
