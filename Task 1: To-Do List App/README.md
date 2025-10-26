@@ -9,6 +9,3 @@ It’s a simple **To-Do List App** built in two versions - **CLI** and **GUI** -
 
 ---
 
-## How to Run
-```bash
-python todo_cli.py
