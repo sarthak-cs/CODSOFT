@@ -1,8 +1,9 @@
 # Task 1 – To-Do List Application (CLI + GUI)
 
-This project is part of my **CodSoft Python Internship**.  
-It’s a simple **To-Do List App** built in two versions - **CLI** and **GUI** - using Python and **pickle file handling** for data storage.
-
+A Python & Tkinter-based To-Do List app with Binary storage. 
+Made both, CLI and GUI for the project.
+Functions: Add, View, Update, Remove tasks.  
+**Tech used:** Python, Pickle, Tkinter
 ---
 
 **File Used:** `Todo.dat`
