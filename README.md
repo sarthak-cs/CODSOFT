@@ -10,10 +10,10 @@ This repository contains all the tasks completed during my **CodSoft Python Inte
 ## Tasks Completed
 
 ### **Task 1 - To-Do List**
-A Python & Tkinter-based To-Do List app with CSV storage. 
+A Python & Tkinter-based To-Do List app with Binary storage. 
 Made both, CLI and GUI for the project.
 Functions: Add, View, Update, Remove tasks.  
-**Tech used:** Python, CSV, Tkinter
+**Tech used:** Python, Pickle, Tkinter
 
 ### **Task 2 - Calculator**
 A GUI Calculator using Tkinter with basic arithmetic operations.
@@ -29,17 +29,17 @@ A fun GUI-based RPS game vs the computer.
 **Tech used:** Python, Tkinter
 
 ### **Task 5 - Contact Book**
-A Python & Tkinter-based Contact book with CSV storage. 
+A Python & Tkinter-based Contact book with Binary storage. 
 Made both, CLI and GUI for the project.
 Functions: Add, View, Update, Search, and Remove contacts
-**Tech used:** Python, CSV, Tkinter
+**Tech used:** Python, Pickle, Tkinter
 
 ---
 
 ## Technologies Used
 - Python 3
 - Tkinter (GUI)
-- CSV (File handling)
+- Pickle/Binary (File handling)
 - Random module
   
 ---
