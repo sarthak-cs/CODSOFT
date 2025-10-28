@@ -11,8 +11,6 @@ A command-line version that allows you to:
 - Store all tasks efficiently using the `pickle` module
 - Learn how data can be serialized in binary format
 
-**File Used:** `Todo.dat`
-
 ---
 
 ## GUI Version
@@ -20,8 +18,7 @@ A graphical version of the same To-Do app built using **Tkinter**.
 Features:
 - Add, delete, and mark tasks done through an interactive interface
 - Tasks are saved persistently using `pickle`
-- 
-**File Used:** `Todo.dat`
+  
 ---
 
 ## Concepts Used
@@ -31,3 +28,5 @@ Features:
 - Functions and modular code
 
 ---
+
+**File Used:** `Todo.dat`
