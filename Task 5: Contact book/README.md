@@ -7,7 +7,7 @@ It’s a simple **Contact Book App** built in two versions - **CLI** and **GUI**
 
 ## CLI Version
 A command-line version that allows you to:
-- Lets users add, view, search, update and delete contacts
+- Lets users add, view, search and delete contacts
 - Displays all stored contacts in a formatted view
 - Store all Contacts efficiently using the `pickle` module
 - Stores name, contact number, email and address
@@ -15,11 +15,11 @@ A command-line version that allows you to:
 ---
 
 ## GUI Version
-A graphical version of the same To-Do app built using **Tkinter**.
+A graphical version of the same Contact book app built using **Tkinter**.
 Features:
 - Provides text boxes and buttons for all key operations
 - Displays contact details dynamically
-- Allows adding, searching, updating and deleting contacts
+- Allows adding, searching and deleting contacts
 - contacts are saved persistently using `pickle`
 - stores name and contact number
   
@@ -33,5 +33,4 @@ Features:
 
 ---
 
-**File Used:** `Contact.dat` for CLI
-**File Used:** `CONTACT_BOOK.dat` for GUI
+**File Used:** `Contact.dat`
